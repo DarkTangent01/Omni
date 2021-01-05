@@ -2,13 +2,27 @@
 
 > Mayank Srivastava | 5 jan 2021 1:48 PM
 
-|       Machine Introduction      |
-| :------------- | :------------- |
-| Name           | Omni           |
-| Os Type        | Other          |
-| Diffculty      | Easy           |
-| Points         | 30             |
-| Ip address     | 10.10.10.204   |
+| Machine Introduction                     |
+
+|----------|--------------------------------|
+
+| Name    | Omni   |
+
+| Os Type  | Other     |
+
+| Diffculty  | Easy        |
+
+| Points    |30        |
+
+| Ip address   | 10.10.10.204      |
+
+
+
+
+
+
+
+
 
 As usual Basic enumeration
 
